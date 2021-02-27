@@ -23,13 +23,17 @@ Inspecting the CSVs and sketching out an ERD of the tables using the app QuickDB
 
 
 
-2. Data Engineering
+
+2.Data Engineering
+
 
 Using the created diagram from the QuickDBD to create a table  for each of the six CSV files. 
 
 Remember specifying data types, primary keys, foreign keys, and other constraints.
 
 Importing each CSV file into the corresponding SQL table.
+
+
 
 
 
