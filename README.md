@@ -5,8 +5,11 @@ Complete a research project on employees database of the corporation from the 19
 Design the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data. In other words, perform the following:
 
 Data Modeling
+
 Data Engineering
+
 Data Analysis
+
 
 
 1. Data Modeling
